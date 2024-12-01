@@ -1,6 +1,6 @@
 # IITD-CSE
-This repo is aimed to help all Computer Science students at IIT Delhi. We aim to make this a complete resource and a one stop solution to all needs for students across all years in the department. 
 
+This repo is aimed to help all Computer Science students at IIT Delhi. We aim to make this a complete resource and a one stop solution to all needs for students across all years in the department.
 
 Feel free to contribute and share !
 
@@ -9,9 +9,10 @@ Feel free to contribute and share !
 #### Internsips & Placement Season Resources
 
 - [Internship Season](./3rd-year/internship-season/) (3rd Year)
-    * [Interview Experiences, Tests, Cutoffs, Offers etc.](./3rd-year/internship-season/interview-experiences/)
-    * [Internship Experiences](./3rd-year/internship-season/internship-experiences/)
-    * [Tips and Resources](./3rd-year/internship-season/tips-and-resources/)
+
+  - [Interview Experiences, Tests, Cutoffs, Offers etc.](./3rd-year/internship-season/interview-experiences/)
+  - [Internship Experiences](./3rd-year/internship-season/internship-experiences/)
+  - [Tips and Resources](./3rd-year/internship-season/tips-and-resources/)
 
 - [Reseach Interns](./2nd-year/Internships/Research/)
 - [Placements](./4th-year/Placements/)
@@ -64,7 +65,8 @@ Feel free to contribute and share !
 - [AI Research Ke Fundae](./Misc./Research/AI-Research-Ke-Fundae/README.md)
 - [SURA Tips, Proposal Examples and Templates](./2nd-year/Internships/Research/SURA/README.md)
 
---- 
+---
+
 ### Contribute
 
 - [Placement Season Experience](https://forms.gle/9c2kAhx4sZgd14Zh6)
@@ -78,7 +80,6 @@ Feel free to contribute and share !
 
 ### Contributors
 
-
 <details>
 <summary> 2020 Batch </summary>
 
@@ -91,7 +92,6 @@ Feel free to contribute and share !
 - Divyanshu Agarwal
 - Utsav Jaiswal
 </details>
-
 
 <details>
 <summary> 2021 Batch </summary>
@@ -111,7 +111,6 @@ Feel free to contribute and share !
 
 </details>
 
-
 <details>
 <summary> 2022 Batch </summary>
 
@@ -122,9 +121,15 @@ Feel free to contribute and share !
 
 </details>
 
+<details>
+<summary> 2023 Batch </summary>
+
+- Sourav Kumar Patel
+
+</details>
+
 Please create a PR if your name was missed out from the list of contributors
 
 ---
 
 Maintained by ACES-ACM, IIT Delhi
-
